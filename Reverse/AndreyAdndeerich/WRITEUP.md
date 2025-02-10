@@ -280,4 +280,4 @@ Java_com_example_app_1hard_MainActivity_processInput(JNIEnv *env, jobject thiz, 
 ```
 
 ## Флаг
-`PolyCTF{1_L1k3_TCP}`
+`PolyCTF{n4t1v3_C0d3_Is_P0w3rful_1a2b}`
