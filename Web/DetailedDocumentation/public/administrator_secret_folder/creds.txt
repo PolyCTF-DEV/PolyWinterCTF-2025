@@ -1,0 +1,2 @@
+admin:admin
+PolyCTF{adm!N_S3CRET_CRed$}

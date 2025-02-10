@@ -1,0 +1,6 @@
+{
+  "env": "local",
+  "http_server": {
+    "address": "0.0.0.0:8888"
+  }
+}
